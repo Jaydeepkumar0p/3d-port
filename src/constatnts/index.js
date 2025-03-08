@@ -129,7 +129,7 @@ export const socialLinks = [
     {
         name: "LinkedIn",
         iconUrl: linkedin,
-        link: "https://www.linkedin.com/in/jaydeep-kumar-2198b4251/",
+        link: "https://www.linkedin.com/in/jaideep-kumar-000b5424b/",
     },
 ];
 
