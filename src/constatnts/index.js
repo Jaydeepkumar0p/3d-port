@@ -140,8 +140,8 @@ export const projects = [
         theme: "btn-back-red",
         name: "3D Portfolio using Three.js",
         description:
-            "Developed an interactive 3D portfolio showcasing projects, leveraging Three.js for immersive visual effects.",
-        link: "https://www.linkedin.com/in/jaydeep-kumar-2198b4251/",
+            " As a freelancer I have Developed an interactive 3D portfolio showcasing projects, leveraging Three.js for immersive visual effects.",
+        link: "https://port-shatakshi.vercel.app/",
     },
 ];
 
