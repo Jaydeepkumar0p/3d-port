@@ -143,6 +143,13 @@ export const projects = [
             " As a freelancer I have Developed an interactive 3D portfolio showcasing projects, leveraging Three.js for immersive visual effects.",
         link: "https://port-shatakshi.vercel.app/",
     },
+    {
+        iconUrl:motion,
+        theme:"btn-back-red",
+        description:"as mern stack developer i build realtime chat application using mongodb as database and express as backend framework ,react and for real time communication i used socket i.0",
+        link:"https://full-stack-chatapp-jwu6.onrender.com/"
+            
+    },
 ];
 
 export const experiences = [
